@@ -30,7 +30,7 @@
 </h2>
 
 <p>
- Lembrando para funcionamento do projeto é necessario tambem rodar a api fake, que está no <a href="https://github.com/fera765/Gostack-desafio-02">desafio anterior</a>
+ Lembrando para funcionamento do projeto é necessario tambem rodar a api fake, que está no <a href="https://github.com/fera765/Gostack-typeorm-upload">API REST</a>
 </p>
 
 ```bash
