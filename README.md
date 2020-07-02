@@ -25,7 +25,7 @@
   Esse desafio abordou alguns conceitos do ReactJS, como tambem trabalhar com rotas, trabalhar com upload de arquivos etc, dentro da pasta tmp deixarei um arquivo csv de exemplo..
 </p>
 
-<img src=""/>
+<img src="https://raw.githubusercontent.com/fera765/gostack-fundamentos-reactjs/master/tmp/app.png"/>
 
 <h2 align="center">
   Para rodar o projeto
